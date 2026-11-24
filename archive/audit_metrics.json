@@ -1,0 +1,11 @@
+{
+  "queries": 12288,
+  "ideal_model_false_admissions": 2892,
+  "ideal_model_admissions": 8308,
+  "mean_loss_underestimate": 2.4670247145259947,
+  "max_loss_underestimate": 7.701204009478395,
+  "near_boundary_queries": 3072,
+  "near_boundary_fallback": 2535,
+  "near_boundary_mismatches": 0,
+  "max_repaired_primal_violation": 0
+}

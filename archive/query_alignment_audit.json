@@ -1,0 +1,33 @@
+{
+  "development": {
+    "previous_csv_sha256": "61a24ff0b173b2763b778447633fc7be70988617d058207bf398320f84dd34af",
+    "current_csv_sha256": "f142f8fbcca0994529c126783160cf7e3fa504014847efbc8d4f1307ed521145",
+    "query_fallback": {
+      "nearest_certificate": 293,
+      "all_certificate": 159,
+      "monotone_bracket": 339
+    },
+    "timed_fallback": {
+      "nearest_certificate": 293,
+      "all_certificate": 159,
+      "monotone_bracket": 339
+    },
+    "queries": 3072
+  },
+  "confirmation": {
+    "previous_csv_sha256": "52a5374507d92d15e1fa99fdaa711e21c264ffca0b323cf5dfc5e22de0612e3b",
+    "current_csv_sha256": "4eff995fc9c7885207172943915265c8b8e336688b8122d1ae19b23cebf50d6b",
+    "query_fallback": {
+      "nearest_certificate": 1266,
+      "all_certificate": 606,
+      "monotone_bracket": 1316
+    },
+    "timed_fallback": {
+      "nearest_certificate": 1266,
+      "all_certificate": 606,
+      "monotone_bracket": 1316
+    },
+    "queries": 12288
+  },
+  "purpose": "Align raw-query certificate witnesses with the fresh Oracle used for deployment timing; no query, truth, timing, method selection or protocol changes."
+}

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite it using this metadata."
+title: "Data-center restoration certificates"
+type: software
+authors:
+  - family-names: Kan
+    given-names: Dongyue
+keywords:
+  - data center restoration
+  - primal-dual certificates
+  - workload migration
+  - linear programming
